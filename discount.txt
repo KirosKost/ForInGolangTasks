@@ -1,0 +1,4 @@
+product: 6400 
+delivery: 350 
+ldiscount: 700 
+result: 6050 

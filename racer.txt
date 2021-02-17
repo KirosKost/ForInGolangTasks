@@ -1,0 +1,7 @@
+lap: 4 
+engine: 254 
+wheels: 93 
+steeringWheel: 49 
+wind: -21 
+rain: -17 
+Итоговоя скорость гонщика:  358 км/ч
